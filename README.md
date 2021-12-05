@@ -17,5 +17,5 @@ I've played around with:
 
 ## Recent ⏰
 
-I've most recently worked on ![The Last Void](https://justdevdan.itch.io/the-last-void) for GoGodot Jam 2. While it was my first public foray into a Godot game project,
+I've most recently worked on [The Last Void](https://justdevdan.itch.io/the-last-void) for GoGodot Jam 2. While it was my first public foray into a Godot game project,
 I'm happy with the variety work I put into it and will continue to explore this project.
