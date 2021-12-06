@@ -1,4 +1,4 @@
-# Hi 👋 , I’m @DanielAtanasovski
+# Hi 👋, I’m @DanielAtanasovski
 
 ![Alt Text](https://media.giphy.com/media/w7mLEAMcpjrpe/giphy.gif)
 
@@ -21,7 +21,7 @@ and frameworks to high-level web environments, I've played around with a lot to 
   - 🏎️ [Simple Racing Game in Phaser + JS](https://github.com/DanielAtanasovski/Simple-Racing) 
 - 🏫 Random School Projects (Java, C++, Python)
   - 🕵️ [Stegenography Project in Java](https://github.com/DanielAtanasovski/Java-Steganography) 
-  - ⛓️ [Attempt at a local Implementation of a blockchain in Java](https://github.com/DanielAtanasovski/RMIT_Java-Blockchain) 
+  - 🔗 [Attempt at a local Implementation of a blockchain in Java](https://github.com/DanielAtanasovski/RMIT_Java-Blockchain) 
 
 ## Recent ⏰
 
