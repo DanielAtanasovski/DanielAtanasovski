@@ -4,7 +4,7 @@
 
 ## About Me 😐
 
-I'm currently 23 with an associates degree in Electrical & Electronic Engineering in the bag and currently studying to become a computer scientist!
+I'm currently 24 with an associates degree in Electrical & Electronic Engineering and Bachelors in Computer Science in the bag while also currently an associate software engineer!
 
 ## Learning 📖
 
