@@ -22,8 +22,3 @@ and frameworks to high-level web environments, I've played around with a lot to 
 - 🏫 Random School Projects (Java, C++, Python)
   - 🕵️ [Stegenography Project in Java](https://github.com/DanielAtanasovski/Java-Steganography) 
   - 🔗 [Attempt at a local Implementation of a blockchain in Java](https://github.com/DanielAtanasovski/RMIT_Java-Blockchain) 
-
-## Recent ⏰
-
-I've most recently worked on [The Last Void](https://justdevdan.itch.io/the-last-void) for GoGodot Jam 2. While it was my first public foray into a Godot game project,
-I'm happy with the variety work I put into it and will continue to explore this project.
