@@ -1,12 +1,4 @@
-# Hi 👋, I’m @DanielAtanasovski
-
-![Alt Text](https://media.giphy.com/media/w7mLEAMcpjrpe/giphy.gif)
-
-## About Me 😐
-
-I'm currently 24 with an associates degree in Electrical & Electronic Engineering and Bachelors in Computer Science in the bag while also currently an associate software engineer!
-
-## Learning 📖
+## Projects 📖
 
 Throughout my years I've been exploring the various technology stacks and how they interact to form the products we use everyday. From low-level languages
 and frameworks to high-level web environments, I've played around with a lot to form projects such as:
@@ -22,3 +14,5 @@ and frameworks to high-level web environments, I've played around with a lot to 
 - 🏫 Random School Projects (Java, C++, Python)
   - 🕵️ [Stegenography Project in Java](https://github.com/DanielAtanasovski/Java-Steganography) 
   - 🔗 [Attempt at a local Implementation of a blockchain in Java](https://github.com/DanielAtanasovski/RMIT_Java-Blockchain) 
+
+![Alt Text](https://media.giphy.com/media/w7mLEAMcpjrpe/giphy.gif)
