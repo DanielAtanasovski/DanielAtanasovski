@@ -8,4 +8,4 @@ and frameworks to high-level web environments, I've played around with a lot to 
 - Games That I've Published
   - [TheLastVoid](https://github.com/DanielAtanasovski/TheLastVoid)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAtanasovski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
