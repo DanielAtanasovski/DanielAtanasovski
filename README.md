@@ -8,9 +8,6 @@ and frameworks to high-level web environments, I've played around with a lot to 
 - Games That I've Published
   - [TheLastVoid](https://github.com/DanielAtanasovski/TheLastVoid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAtanasovski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAtanasovski&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAtanasovski&count_private=true&show_icons=true&theme=dracula" />
 </a>
