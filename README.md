@@ -4,9 +4,7 @@ Throughout my years I've been exploring the various technology stacks and how th
 and frameworks to high-level web environments, I've played around with a lot to form projects such as:
 
 - 🏫 Various RMIT Projects:
-  - [Projects](https://github.com/DanielAtanasovski/RMIT-Projects) 
-- Games That I've Published
-  - [TheLastVoid](https://github.com/DanielAtanasovski/TheLastVoid)
+  - [Projects](https://github.com/DanielAtanasovski/RMIT-Projects)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAtanasovski&count_private=true&show_icons=true&theme=dracula" />
